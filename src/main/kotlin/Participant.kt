@@ -1,0 +1,1 @@
+data class Participant(var name: String, var age: Int)
